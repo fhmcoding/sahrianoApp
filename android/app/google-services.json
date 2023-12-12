@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "923910799063",
+    "firebase_url": "https://saharianoapp-bc6ba-default-rtdb.firebaseio.com",
+    "project_id": "saharianoapp-bc6ba",
+    "storage_bucket": "saharianoapp-bc6ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923910799063:android:5a7e557e0955c5fd457a92",
+        "android_client_info": {
+          "package_name": "com.elsaharianobookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwutNTUdPfDrW0jXZ1SQPbGi-eBEqMjqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
